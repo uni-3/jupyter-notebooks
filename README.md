@@ -1,1 +1,1 @@
-# add jupyter nodebooks
+# notebooks create on google colaboratory
